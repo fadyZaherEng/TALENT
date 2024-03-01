@@ -1,0 +1,65 @@
+class ProfileEmployee {
+  final int userId;
+  final String username;
+  final int employeeId;
+  final String employeeName;
+  final String positionName;
+  final String email;
+  final int companyId;
+  final String companyName;
+  final String companyLogo;
+  final String contactNo;
+  final String joiningDate;
+  final String fingerPrintNo;
+  final String mobileImageFilePath;
+  final int userTypeId;
+  final int noOfDigits;
+  final int basicSalary;
+  final int totalAllowances;
+  final int grossSalary;
+  final String employeeNo;
+  final int nationalityId;
+  final String nationality;
+  final String birthDate;
+  final String civilId;
+  final int levelId;
+  final String level;
+  final int directManagerId;
+  final String directManager;
+  final String residencyIssueDate;
+  final String residencyExpiryDate;
+  String? currency;
+
+   ProfileEmployee({
+    this.userId = 0,
+    this.username = "",
+    this.employeeId = 0,
+    this.employeeName = "",
+    this.positionName = "",
+    this.email = "",
+    this.companyId = 0,
+    this.companyName = "",
+    this.companyLogo = "",
+    this.contactNo = '',
+    this.joiningDate = '',
+    this.fingerPrintNo = '',
+    this.mobileImageFilePath = "",
+    this.userTypeId = 0,
+    this.noOfDigits = 0,
+    this.basicSalary = 0,
+    this.totalAllowances = 0,
+    this.grossSalary = 0,
+    this.employeeNo = "",
+    this.nationalityId = 0,
+    this.nationality = "",
+    this.birthDate = '',
+    this.civilId = "",
+    this.levelId = 0,
+    this.level = "",
+    this.directManagerId = 0,
+    this.directManager = "",
+    this.residencyIssueDate = "",
+    this.residencyExpiryDate = "",
+    this.currency = "",
+  });
+}

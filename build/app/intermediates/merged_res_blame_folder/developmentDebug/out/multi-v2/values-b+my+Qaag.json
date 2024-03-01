@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ilead.talent.link.talent_link.app-mergeDevelopmentDebugResources-33:/values-b+my+Qaag/values-b+my+Qaag.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mohamed\\.gradle\\caches\\transforms-3\\7c808943a71e20f86a2e7ad6c06ef6e6\\transformed\\jetified-ui-6.9.0.300\\res\\values-b+my+Qaag\\values-b+my+Qaag.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,245,574,644,891",
+                        "endColumns": "189,328,69,246,68",
+                        "endOffsets": "240,569,639,886,955"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,245,574,644,964",
+                        "endColumns": "189,328,69,246,68",
+                        "endOffsets": "240,569,639,886,1028"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mohamed\\.gradle\\caches\\transforms-3\\5979a594ac6c50683b5aeef54306bea3\\transformed\\jetified-push-6.11.0.300\\res\\values-b+my+Qaag\\values-b+my+Qaag.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "891",
+                        "endColumns": "72",
+                        "endOffsets": "959"
+                    }
+                }
+            ]
+        }
+    ]
+}

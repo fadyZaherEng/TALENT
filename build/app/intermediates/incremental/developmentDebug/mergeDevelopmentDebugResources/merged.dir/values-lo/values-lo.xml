@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"ຮັບສາຍ"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ວິດີໂອ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"ປະຕິເສດ"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"ວາງສາຍ"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"ສາຍໂທເຂົ້າ"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"ສາຍໂທອອກ"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"ກຳລັງກວດສອບສາຍໂທເຂົ້າ"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">ເປີດນຳໃຊ້</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ງານ​ການ​ບໍ​ລິ​ການ Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">ເປີດໃຊ້ການ​ບໍ​ລິ​ການ Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">ຕິດຕັ້ງ</string>
+    <string name="common_google_play_services_install_text">%1$s ຈະບໍ່ສາມາດເປີດໃຊ້ໄດ້ຫາກບໍ່ມີການບໍລິການ Google Play ເຊິ່ງແທັບເລັດຂອງທ່ານບໍ່ມີ.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ສະຖານະບໍລິການ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ຈະບໍ່ສາມາດໃຊ້ໄດ້ຫາກບໍ່ມີບໍລິການ Google Play ເຊິ່ງອຸປະກອນຂອງທ່ານບໍ່ຮອງຮັບ.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">ອັບເດດ</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດການ​ບໍ​ລິ​ການ Google Play</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">ອັບເດດການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ກຳ​ລັງ​ອັບ​ເດດ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ.</string>
+    <string name="common_google_play_services_wear_update_text">ຈຳ​ເປັນ​ຕ້ອງ​ມີ​ກາ​ນ​ບໍ​ລິ​ການ Google Play ເວີ​ຊັນ​ໃໝ່. ມັນ​ຈະ​ອັບ​ເດດ​ຕົວ​ເອງ​ໄວໆ​ນີ້.</string>
+    <string name="common_open_on_phone">​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ</string>
+    <string name="common_signin_button_text">ລົງຊື່ເຂົ້າໃຊ້</string>
+    <string name="common_signin_button_text_long">ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"ສຳເນົາລິ້ງໃສ່ຄລິບບອດແລ້ວ"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"ສຳເນົາລິ້ງ"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"ເປີດໃນໂປຣແກຣມທ່ອງເວັບ"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"ແບ່ງປັນລິ້ງ"</string>
+    <string name="hms_apk_not_installed_hints" priority="LT">"ບາງ​ຄຸນ​ສົມ​ບັດ​ຢູ່​ໃນ %1$s ​ອາດ​ຈະ​ບໍ່​ເຮັດ​ວຽກ​ໄດ້​ຢ່າງ​ຖືກ​ຕ້ອງ​ຫາກ​ບໍ່​ມີ HMS Core, ​ເຊິ່ງ​ບໍ່​ໄດ້​ຮັບ​ການ​ຕິດ​ຕັ້ງ​ໃນ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ."</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s ບໍ່​ສາ​ມາດ​ໃຊ້ HMS Core ໄດ້. ເປີດໃຊ້​ຕົວ​ປັບ​ໃຫ້​ເໝາະ​ສົມ (ຕົວ​ຈັດ​ການ​ໂທ​ລະ​ສັບ) ຫຼື ໄປ​ທີ່​ການ​ຕັ້ງ​ຄ່າ, ເປີດ​ໃຊ້​ງານ​ການ​ອະ​ນຸ​ຍາດ​ທັງ​ໝົດ​ສຳ​ລັບ %2$s (ລວມ​ທັງ​ການ​ເປີດ​ໃຊ້​ອັດ​ຕະ​ໂນ​ມັດ ແລະ ການ​ເປີດ​ໃຊ້​ສຳ​ຮອງ) ແລະ ລອງ​ໃໝ່​ອີກ."</string>
+    <string name="hms_confirm" priority="translator">"ຕົກ​ລົງ"</string>
+    <string name="hms_is_spoof" priority="LT">"ປະ​ກົດ​ວ່າ​ທ່ານ​ໄດ້​ຕິດ​ຕັ້ງ HMS Core ເວີ​ຊັນທີ່​ບໍ່​ເປັນ​ທາງ​ການ (%1$s) ​ໃນ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ. ​ກະ​ລຸ​ນາ​ຖອນຕິດ​ຕັ້ງ HMS Core​ ຈາກ​ການ​ຕັ້ງ​ຄ່າ ແລະ ກັບ​ຄືນ​ໄປ​ຫາ​ແອັບ​ນີ້, ​ເພື່ອ​ຕິດ​ຕັ້ງ​ເວີ​ຊັນ​ທີ່​ເປັນ​ທາງ​ການ."</string>
+    <string name="hms_push_channel" priority="Original">"ຄ່າເລີ່ມຕົ້ນ"</string>
+    <string name="hms_spoof_hints" priority="LT">"​ໝາຍ​ເຫດ"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

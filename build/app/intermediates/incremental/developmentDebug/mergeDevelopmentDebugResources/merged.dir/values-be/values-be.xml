@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Адказаць"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Відэа"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Адхіліць"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завяршыць"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Уваходны выклік"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Бягучы выклік"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фільтраванне ўваходнага выкліку"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Уключыць</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Усталяваць</string>
+    <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Даступнасць сэрвісаў Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Абнавіць</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="common_google_play_services_wear_update_text">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+    <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
+    <string name="common_signin_button_text">Увайсцi</string>
+    <string name="common_signin_button_text_long">Увайсці праз Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Спасылка скапіравана ў буфер абмену"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Скапіраваць спасылку"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Адкрыць у браўзеры"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Абагуліць спасылку"</string>
+    <string name="hms_apk_not_installed_hints" priority="LT">"Некаторыя функцыі ў праграме «%1$s» могуць працаваць няправільна без HMS Core, які не ўстаноўлены на вашай прыладзе."</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s не можа выкарыстоўваць HMS Core. Запусціце Аптымізатар (Дыспетчар) ці перайдзіце ў Налады, уключыце ўсе дазволы для %2$s (уключаючы аўтаматычны і другасны запускі) і паўтарыце спробу."</string>
+    <string name="hms_confirm" priority="translator">"ОК"</string>
+    <string name="hms_is_spoof" priority="LT">"Здаецца, на вашай прыладзе ўстаноўлена неафіцыйная версія HMS Core (%1$s). Выдаліце HMS Core у Наладах і вярніцеся ў гэту праграму, каб устанавіць афіцыйную версію."</string>
+    <string name="hms_push_channel" priority="Original">"Стандартнае"</string>
+    <string name="hms_spoof_hints" priority="LT">"Заўвага"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
